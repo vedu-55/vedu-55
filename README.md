@@ -76,7 +76,10 @@ public:
 </td>
 
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stmicroelectronics.svg" width="55"/><br><b>STM32</b>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/espressif.svg" width="55"/><br><b>ESP32</b>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/stmicroelectronics.svg" width="55"/><br><b>STM32</b>
 </td>
 
 </tr>
