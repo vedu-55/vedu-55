@@ -65,10 +65,6 @@ public:
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br><b>Embedded C/C++</b>
-</td>
-
-<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=python" width="55"/><br><b>Python</b>
 </td>
 
