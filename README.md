@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=Vedu%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20|%20Robotics%20Developer&descAlignY=58"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Robotics+Developer;ESP32+%7C+STM32+%7C+Raspberry+Pi;Embedded+Linux+%7C+FreeRTOS;Future+VLSI+Engineer"/>
+</p>
 </p>
 <h1 align="center">
 Vedu M
