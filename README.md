@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=14,20,24&text=M VEDAMURTHY%20&fontColor=ffffff&fontSize=60&animation=twinkling&desc=Embedded%20Systems%20•%20Robotics%20•%20VLSI&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=14,20,24&text=MVEDAMURTHY%20m&fontColor=ffffff&fontSize=60&animation=twinkling&desc=Embedded%20Systems%20•%20Robotics%20•%20VLSI&descAlignY=60"/>
 </p>
 <h1 align="center">
 Vedu M
