@@ -67,83 +67,75 @@ public:
 
 - 💡 Building Intelligent Hardware Systems
 
+<h3>💻 Programming Languages</h3>
+
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=c" width="48"/><br><b>C</b>
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br><b>C</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br><b>Embedded C/C++</b>
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br><b>Embedded C/C++</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br><b>Python</b>
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br><b>Python</b>
 </td>
 
 <td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48"/><br><b>MATLAB</b>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="55"/><br><b>MATLAB</b>
+</td>
+</tr>
+</table>
+
+<h3>🔧 Embedded Platforms</h3>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=arduino" width="55"/><br><b>Arduino</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="55"/><br><b>Raspberry Pi</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stmicroelectronics.svg" width="55"/><br><b>STM32</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Espressif_Logo.svg" width="55"/><br><b>ESP32</b>
 </td>
 
 </tr>
 </table>
 
-<table>
-<tr>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=arduino" width="48"/><br><b>Arduino</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=raspberrypi" width="48"/><br><b>Raspberry Pi</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://img.icons8.com/color/96/stm32.png" width="48"/><br><b>STM32</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://img.icons8.com/color/96/esp32.png" width="48"/><br><b>ESP32</b>
-</td>
-
-</tr>
-</table>
+<h3>📡 Communication Protocols</h3>
 
 <table>
 <tr>
-
 <td align="center">UART</td>
-
 <td align="center">SPI</td>
-
 <td align="center">I²C</td>
-
 <td align="center">CAN</td>
-
 <td align="center">PWM</td>
-
 <td align="center">ADC</td>
-
 </tr>
 
 <tr>
-
 <td align="center">Wi-Fi</td>
-
 <td align="center">Bluetooth</td>
-
 <td align="center">MQTT</td>
-
 <td align="center">LoRa</td>
-
 <td align="center">Zigbee</td>
-
 <td align="center">GPIO</td>
-
 </tr>
-
 </table>
+
 
 <table>
 <tr>
