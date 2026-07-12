@@ -95,42 +95,69 @@ public:
 
 <table>
 <tr>
-<td align="center">UART</td>
-<td align="center">SPI</td>
-<td align="center">I²C</td>
-<td align="center">CAN</td>
-<td align="center">PWM</td>
-<td align="center">ADC</td>
+
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/serial-tasks.png" width="40"/><br>
+<b>UART</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/microchip.png" width="40"/><br>
+<b>SPI</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/electronics.png" width="40"/><br>
+<b>I²C</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/network-card.png" width="40"/><br>
+<b>CAN</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/pulse.png" width="40"/><br>
+<b>PWM</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/sine-wave.png" width="40"/><br>
+<b>ADC</b>
+</td>
+
 </tr>
 
 <tr>
-<td align="center">Wi-Fi</td>
-<td align="center">Bluetooth</td>
-<td align="center">MQTT</td>
-<td align="center">LoRa</td>
-<td align="center">Zigbee</td>
-<td align="center">GPIO</td>
-</tr>
-</table>
 
-<h3>🤖 Robotics & AI</h3>
-<table>
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=opencv" width="48"/><br><b>OpenCV</b>
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/wifi.png" width="40"/><br>
+<b>Wi-Fi</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/bluetooth.png" width="40"/><br>
+<b>Bluetooth</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros"/>
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/wifi-router.png" width="40"/><br>
+<b>MQTT</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/radio-tower.png" width="40"/><br>
+<b>LoRa</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/zigbee.png" width="40"/><br>
+<b>Zigbee</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/microchip.png" width="40"/><br>
+<b>GPIO</b>
 </td>
 
 </tr>
