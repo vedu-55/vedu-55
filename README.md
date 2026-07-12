@@ -33,7 +33,6 @@ Designing Intelligent Embedded Systems for Robotics, IoT, Embedded Linux, Comput
 </a>
 </p>
 
-
 class Vedu
 {
 public:
