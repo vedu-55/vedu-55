@@ -106,10 +106,6 @@ public:
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stmicroelectronics.svg" width="55"/><br><b>STM32</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Espressif_Logo.svg" width="55"/><br><b>ESP32</b>
-</td>
-
 </tr>
 </table>
 
@@ -136,7 +132,7 @@ public:
 </tr>
 </table>
 
-
+<h3>🤖 Robotics & AI</h3>
 <table>
 <tr>
 
@@ -160,6 +156,8 @@ public:
 
 </table>
 
+
+<h3>⚡ Electronics & PCB Design</h3>
 <table>
 
 <tr>
@@ -184,6 +182,8 @@ public:
 
 </table>
 
+
+<h3>⏱ RTOS & Embedded Concepts</h3>
 <table>
 
 <tr>
@@ -216,6 +216,8 @@ ADC
 
 </table>
 
+
+<h3>🛠 Development Tools</h3>
 <table>
 
 <tr>
