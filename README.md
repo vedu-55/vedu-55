@@ -90,37 +90,27 @@ public:
 </tr>
 </table>
 
-<h3>📡 Communication Protocols</h3>
+<## 📡 Communication Protocols
 
-<p align="left">
+<table>
+<tr>
+<td align="center">UART</td>
+<td align="center">SPI</td>
+<td align="center">I²C</td>
+<td align="center">CAN</td>
+<td align="center">PWM</td>
+<td align="center">ADC</td>
+</tr>
 
-<img src="https://img.shields.io/badge/UART-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
-
-<img src="https://img.shields.io/badge/SPI-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
-
-<img src="https://img.shields.io/badge/I²C-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
-
-<img src="https://img.shields.io/badge/CAN-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
-
-<img src="https://img.shields.io/badge/PWM-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
-
-<img src="https://img.shields.io/badge/ADC-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Wi--Fi-0D1117?style=for-the-badge&logo=wifi&logoColor=white&labelColor=1F2937"/>
-
-<img src="https://img.shields.io/badge/Bluetooth-0D1117?style=for-the-badge&logo=bluetooth&logoColor=white&labelColor=1F2937"/>
-
-<img src="https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=eclipsemosquitto&logoColor=white&labelColor=1F2937"/>
-
-<img src="https://img.shields.io/badge/LoRa-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
-
-<img src="https://img.shields.io/badge/Zigbee-0D1117?style=for-the-badge&logo=zigbee&logoColor=white&labelColor=1F2937"/>
-
-<img src="https://img.shields.io/badge/GPIO-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
-
-</p>
+<tr>
+<td align="center">Wi-Fi</td>
+<td align="center">Bluetooth</td>
+<td align="center">MQTT</td>
+<td align="center">LoRa</td>
+<td align="center">Zigbee</td>
+<td align="center">GPIO</td>
+</tr>
+</table>
 
 <h3>⚡ Electronics & PCB Design</h3>
 <table>
