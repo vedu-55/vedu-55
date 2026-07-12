@@ -16,11 +16,11 @@ Designing Intelligent Embedded Systems for Robotics, IoT, Embedded Linux, Comput
 </p>
 
 <p align="center">
-<a href="https://your-portfolio.com" target="_blank">
+<a href="https://your-portfolio.com" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/m-vedamurthy-aa704a367" target="_blank">
+<a href="https://www.linkedin.com/in/m-vedamurthy-aa704a367" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -32,10 +32,6 @@ Designing Intelligent Embedded Systems for Robotics, IoT, Embedded Linux, Comput
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=vedu-55&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/vedu-55?label=Followers&style=for-the-badge&color=00C2FF"/>
 
 
 class Vedu
