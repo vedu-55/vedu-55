@@ -34,7 +34,6 @@ public:
         "Embedded Linux",
         "RTOS",
         "PCB Design",
-        "VLSI",
         "Satellite Communication"
     };
 
@@ -51,12 +50,10 @@ public:
         "STM32",
         "FreeRTOS",
         "Linux Device Drivers",
-        "Verilog",
         "PCB Design"
     };
 
 };
-- 🎓 Final Year Electronics & Communication Engineering Student
 
 - 🏢 Embedded Systems Intern at Bharat Electronics Limited (BEL)
 
@@ -70,48 +67,187 @@ public:
 
 - 💡 Building Intelligent Hardware Systems
 
-<p align="left">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c" width="48"/><br><b>C</b>
+</td>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab"/>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br><b>Embedded C/C++</b>
+</td>
 
-</p>
-<p align="left">
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br><b>Python</b>
+</td>
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48"/><br><b>MATLAB</b>
+</td>
 
-</p>
+</tr>
+</table>
 
-<p>
+<table>
+<tr>
 
-ESP32 • STM32 • UART • SPI • I2C • PWM • ADC • GPIO
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=arduino" width="48"/><br><b>Arduino</b>
+</td>
 
-</p>
-<p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="48"/><br><b>Raspberry Pi</b>
+</td>
 
-<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/stm32.png" width="48"/><br><b>STM32</b>
+</td>
 
-<img src="https://img.shields.io/badge/Proteus-1B6AC6?style=for-the-badge"/>
+<td align="center" width="120">
+<img src="https://img.icons8.com/color/96/esp32.png" width="48"/><br><b>ESP32</b>
+</td>
 
-<img src="https://img.shields.io/badge/ANSYS_HFSS-FFB000?style=for-the-badge"/>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks"/>
+<table>
+<tr>
 
-</p>
-<p>
+<td align="center">UART</td>
 
-<img src="https://skillicons.dev/icons?i=opencv"/>
+<td align="center">SPI</td>
 
+<td align="center">I²C</td>
+
+<td align="center">CAN</td>
+
+<td align="center">PWM</td>
+
+<td align="center">ADC</td>
+
+</tr>
+
+<tr>
+
+<td align="center">Wi-Fi</td>
+
+<td align="center">Bluetooth</td>
+
+<td align="center">MQTT</td>
+
+<td align="center">LoRa</td>
+
+<td align="center">Zigbee</td>
+
+<td align="center">GPIO</td>
+
+</tr>
+
+</table>
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=opencv" width="48"/><br><b>OpenCV</b>
+</td>
+
+<td align="center" width="120">
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
+</td>
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros"/>
+</td>
 
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto"/>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow"/>
+</td>
 
-<img src="https://img.shields.io/badge/WiFi-0057B8?style=for-the-badge"/>
+</tr>
 
-</p>
-<p align="left">
+</table>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux"/>
+<table>
 
-</p>
+<tr>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Analog-Electronics-blue?style=for-the-badge"/>
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Digital-Electronics-success?style=for-the-badge"/>
+</td>
+
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/Sensor-Interfacing-orange?style=for-the-badge"/>
+</td>
+
+</tr>
+
+</table>
+
+<table>
+
+<tr>
+
+<td align="center">
+<img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge"/>
+</td>
+
+<td align="center">
+Interrupts
+</td>
+
+<td align="center">
+Timers
+</td>
+
+<td align="center">
+GPIO
+</td>
+
+<td align="center">
+PWM
+</td>
+
+<td align="center">
+ADC
+</td>
+
+</tr>
+
+</table>
+
+<table>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode"/>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git"/>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github"/>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux"/>
+</td>
+
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48"/>
+</td>
+
+</tr>
+
+</table>
