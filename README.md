@@ -103,30 +103,44 @@ public:
 <img src="https://cdn.simpleicons.org/espressif/white" width="55"/><br>
 <b>ESP32</b>
 </td>
-
 </tr>
 </table>
 
 <h3>📡 Communication Protocols<h3>
 
 <table>
+    
 <tr>
 <td align="center">UART</td>
+    
 <td align="center">SPI</td>
+
 <td align="center">I²C</td>
+
 <td align="center">CAN</td>
+
 <td align="center">PWM</td>
+
 <td align="center">ADC</td>
+
 </tr>
 
 <tr>
+    
 <td align="center">Wi-Fi</td>
+    
 <td align="center">Bluetooth</td>
+
 <td align="center">MQTT</td>
+
 <td align="center">LoRa</td>
+
 <td align="center">Zigbee</td>
+
 <td align="center">GPIO</td>
+
 </tr>
+
 </table>
 
 <h3>⚡ Electronics & PCB Design</h3>
@@ -195,10 +209,6 @@ ADC
 
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=vscode"/>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git"/>
 </td>
 
 <td align="center" width="120">
