@@ -90,7 +90,7 @@ public:
 </tr>
 </table>
 
-<## 📡 Communication Protocols
+<h3>📡 Communication Protocols<h3>
 
 <table>
 <tr>
