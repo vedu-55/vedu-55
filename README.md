@@ -67,19 +67,32 @@ public:
 <table>
 <tr>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=arduino" width="55"/><br><b>Arduino</b>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=arduino" width="55"/><br>
+<b>Arduino</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=raspberrypi" width="55"/><br><b>Raspberry Pi</b>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="55"/><br>
+<b>Raspberry Pi</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/espressif.svg" width="55"/><br><b>ESP32</b>
+<td align="center" width="140">
+<img
+src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/stmicroelectronics.svg"
+width="55"
+style="filter: brightness(0) invert(1);"
+/><br>
+<b>STM32</b>
+</td>
 
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/stmicroelectronics.svg" width="55"/><br><b>STM32</b>
+<td align="center" width="140">
+<img
+src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/espressif.svg"
+width="55"
+style="filter: brightness(0) invert(1);"
+/><br>
+<b>ESP32</b>
 </td>
 
 </tr>
