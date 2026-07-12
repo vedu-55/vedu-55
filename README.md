@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=14,20,24&text=Vedu%20M&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=twinkling&desc=Embedded%20Systems%20Engineer%20|%20Robotics%20Developer%20|%20Electronics%20Engineer&descAlignY=60&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=14,20,24&text=M%20VEDAMURTHY&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=twinkling&desc=Embedded%20Systems%20Engineer%20|%20Robotics%20Developer%20|%20Electronics%20Engineer&descAlignY=60&descSize=22"/>
 </p>
 
 <!-- Animated Typing -->
@@ -36,6 +36,8 @@ Designing Intelligent Embedded Systems for Robotics, IoT, Embedded Linux, Comput
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vedu-55&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/vedu-55?label=Followers&style=for-the-badge&color=00C2FF"/>
+
+
 class Vedu
 {
 public:
