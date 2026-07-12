@@ -11,7 +11,7 @@ Building intelligent embedded systems using Embedded C, STM32, ESP32, Raspberry 
 </p>
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Electronics+Engineer;Robotics+Developer;ESP32+%7C+STM32+%7C+Raspberry+Pi;Embedded+Linux+%7C+FreeRTOS;IoT+%7C+Computer+Vision;Future+VLSI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Electronics+Engineer;Robotics+Developer;ESP32+%7C+STM32+%7C+Raspberry+Pi;Embedded+Linux+%7C+FreeRTOS;IoT+%7C+Computer+Vision"/>
 
 </p>
 class Vedu
@@ -25,33 +25,6 @@ public:
 
     string Internship =
     "Bharat Electronics Limited (BEL)";
-
-    vector<string> Interests =
-    {
-        "Embedded Systems",
-        "Robotics",
-        "IoT",
-        "Embedded Linux",
-        "RTOS",
-        "PCB Design",
-        "Satellite Communication"
-    };
-
-    vector<string> Languages =
-    {
-        "Embedded C",
-        "C",
-        "Python",
-        "MATLAB"
-    };
-
-    vector<string> CurrentlyLearning =
-    {
-        "STM32",
-        "FreeRTOS",
-        "Linux Device Drivers",
-        "PCB Design"
-    };
 
 };
 
