@@ -111,7 +111,7 @@ public:
 <table>
     
 <tr>
-<td align="center">**UART**</td>
+<td align="center">UART</td>
     
 <td align="center">SPI</td>
 
