@@ -1,38 +1,48 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=14,20,24&text=M%20VEDAMURTHY&fontColor=ffffff&fontSize=60&animation=twinkling&desc=Embedded%20Systems%20•%20Robotics%20•%20VLSI&descAlignY=60"/>
 </p>
-<h1 align="center">
-Vedu M
-</h1>
+<!-- Animated Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=14,20,24&text=Vedu%20M&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=twinkling&desc=Embedded%20Systems%20Engineer%20|%20Robotics%20Developer%20|%20Electronics%20Engineer&descAlignY=60&descSize=22"/>
+</p>
+
+<!-- Animated Typing -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Robotics+Developer;ESP32+%7C+STM32+%7C+Raspberry+Pi;Embedded+Linux+%7C+FreeRTOS;Computer+Vision+%7C+OpenCV;IoT+Developer;Future+VLSI+Engineer;Building+Intelligent+Embedded+Systems"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Vedu M</h1>
 
 <h3 align="center">
 Embedded Systems Engineer • Robotics Developer • Electronics Engineer
 </h3>
 
 <p align="center">
-Designing Intelligent Embedded Systems for Robotics, IoT & Defence Applications
+Designing Intelligent Embedded Systems for Robotics, IoT, Embedded Linux, Computer Vision & Defence Applications.
 </p>
 
 <p align="center">
-
-<a href="YOUR_PORTFOLIO">
+<a href="https://your-portfolio.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/m-vedamurthy-aa704a367" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<a href="mailto:veduvedu034@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME">
-<img src="https://img.shields.io/badge/Resume-00599C?style=for-the-badge&logo=readthedocs"/>
+<a href="https://github.com/vadiraj-22">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vadiraj-22&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/vadiraj-22?label=Followers&style=for-the-badge&color=00C2FF"/>
+</p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Electronics+Engineer;Robotics+Developer;ESP32+%7C+STM32+%7C+Raspberry+Pi;Embedded+Linux+%7C+FreeRTOS;IoT+%7C+Computer+Vision"/>
 
 </p>
