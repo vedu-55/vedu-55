@@ -90,81 +90,37 @@ public:
 </tr>
 </table>
 
-
 <h3>📡 Communication Protocols</h3>
 
-<table>
-<tr>
+<p align="left">
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/serial-tasks.png" width="40"/><br>
-<b>UART</b>
-</td>
+<img src="https://img.shields.io/badge/UART-0D1117?style=for-the-badge&logoColor=white"/>
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/microchip.png" width="40"/><br>
-<b>SPI</b>
-</td>
+<img src="https://img.shields.io/badge/SPI-0D1117?style=for-the-badge&logoColor=white"/>
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/electronics.png" width="40"/><br>
-<b>I²C</b>
-</td>
+<img src="https://img.shields.io/badge/I²C-0D1117?style=for-the-badge&logoColor=white"/>
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/network-card.png" width="40"/><br>
-<b>CAN</b>
-</td>
+<img src="https://img.shields.io/badge/CAN-0D1117?style=for-the-badge&logoColor=white"/>
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/pulse.png" width="40"/><br>
-<b>PWM</b>
-</td>
+<img src="https://img.shields.io/badge/PWM-0D1117?style=for-the-badge&logoColor=white"/>
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/sine-wave.png" width="40"/><br>
-<b>ADC</b>
-</td>
+<img src="https://img.shields.io/badge/ADC-0D1117?style=for-the-badge&logoColor=white"/>
 
-</tr>
+<br>
 
-<tr>
+<img src="https://img.shields.io/badge/Wi--Fi-0D1117?style=for-the-badge&logo=wifi&logoColor=white"/>
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/wifi.png" width="40"/><br>
-<b>Wi-Fi</b>
-</td>
+<img src="https://img.shields.io/badge/Bluetooth-0D1117?style=for-the-badge&logo=bluetooth&logoColor=white"/>
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/bluetooth.png" width="40"/><br>
-<b>Bluetooth</b>
-</td>
+<img src="https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/wifi-router.png" width="40"/><br>
-<b>MQTT</b>
-</td>
+<img src="https://img.shields.io/badge/LoRa-0D1117?style=for-the-badge&logoColor=white"/>
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/radio-tower.png" width="40"/><br>
-<b>LoRa</b>
-</td>
+<img src="https://img.shields.io/badge/Zigbee-0D1117?style=for-the-badge&logo=zigbee&logoColor=white"/>
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/zigbee.png" width="40"/><br>
-<b>Zigbee</b>
-</td>
+<img src="https://img.shields.io/badge/GPIO-0D1117?style=for-the-badge&logoColor=white"/>
 
-<td align="center" width="110">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/microchip.png" width="40"/><br>
-<b>GPIO</b>
-</td>
-
-</tr>
-
-</table>
-
-
+</p>
 <h3>⚡ Electronics & PCB Design</h3>
 <table>
 
@@ -189,7 +145,6 @@ public:
 </tr>
 
 </table>
-
 
 <h3>⏱ RTOS & Embedded Concepts</h3>
 <table>
