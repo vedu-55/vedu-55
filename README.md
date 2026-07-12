@@ -68,7 +68,7 @@ public:
 <img src="https://skillicons.dev/icons?i=python" width="55"/><br><b>Python</b>
 </td>
 <td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=c++" width="55"/><br><b>Embedded C</b>
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br><b>Embedded C</b>
 </td>
 
 </tr>
