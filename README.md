@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=speech&height=260&color=gradient&customColorList=17,24,30&text=Vedu%20M&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=Building%20Intelligent%20Embedded%20Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=14,20,24&text=Vedu%20M&fontColor=ffffff&fontSize=60&animation=twinkling&desc=Embedded%20Systems%20•%20Robotics%20•%20VLSI&descAlignY=60"/>
 </p>
 <h1 align="center">
 Vedu M
