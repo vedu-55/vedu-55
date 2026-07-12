@@ -16,7 +16,7 @@ Designing Intelligent Embedded Systems for Robotics, IoT, Embedded Linux, Comput
 </p>
 
 <p align="center">
-<a href="https://your-portfolio.com" target="blank">
+<a href="https://veduportfolio.vercel.app/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
