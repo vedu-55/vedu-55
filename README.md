@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=270&color=gradient&customColorList=0,2,24&text=Vedu%20M&fontColor=ffffff&fontSize=58&animation=fadeIn&desc=Embedded%20Systems%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=260&color=gradient&customColorList=5,10,18&text=Vedu%20M&fontColor=ffffff&fontSize=56&animation=fadeIn&desc=Electronics%20%7C%20Robotics%20%7C%20Embedded%20Systems"/>
 </p>
 <h1 align="center">
 Vedu M
