@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm <b>Vedamurthy</b>
+<b>VVEDAMURTHY</b>
 </h1>
 
 <h3 align="center">
@@ -19,9 +19,6 @@ class Vedu
 public:
 
     string Role = "Embedded Systems Engineer";
-
-    string Education =
-    "B.E. Electronics & Telecommunication Engineering";
 
     string Internship =
     "Bharat Electronics Limited (BEL)";
