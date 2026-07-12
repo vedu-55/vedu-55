@@ -78,20 +78,12 @@ public:
 </td>
 
 <td align="center" width="140">
-<img
-src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/stmicroelectronics.svg"
-width="55"
-style="filter: brightness(0) invert(1);"
-/><br>
+<img src="assets/icons/stm32-white.png" width="55"/><br>
 <b>STM32</b>
 </td>
 
 <td align="center" width="140">
-<img
-src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/espressif.svg"
-width="55"
-style="filter: brightness(0) invert(1);"
-/><br>
+<img src="assets/icons/esp32-white.png" width="55"/><br>
 <b>ESP32</b>
 </td>
 
