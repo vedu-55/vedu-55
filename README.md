@@ -94,33 +94,34 @@ public:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/UART-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/UART-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
 
-<img src="https://img.shields.io/badge/SPI-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPI-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
 
-<img src="https://img.shields.io/badge/I²C-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/I²C-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
 
-<img src="https://img.shields.io/badge/CAN-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CAN-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
 
-<img src="https://img.shields.io/badge/PWM-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PWM-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
 
-<img src="https://img.shields.io/badge/ADC-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADC-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Wi--Fi-0D1117?style=for-the-badge&logo=wifi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wi--Fi-0D1117?style=for-the-badge&logo=wifi&logoColor=white&labelColor=1F2937"/>
 
-<img src="https://img.shields.io/badge/Bluetooth-0D1117?style=for-the-badge&logo=bluetooth&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bluetooth-0D1117?style=for-the-badge&logo=bluetooth&logoColor=white&labelColor=1F2937"/>
 
-<img src="https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=eclipsemosquitto&logoColor=white"/>
+<img src="https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=eclipsemosquitto&logoColor=white&labelColor=1F2937"/>
 
-<img src="https://img.shields.io/badge/LoRa-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LoRa-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
 
-<img src="https://img.shields.io/badge/Zigbee-0D1117?style=for-the-badge&logo=zigbee&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zigbee-0D1117?style=for-the-badge&logo=zigbee&logoColor=white&labelColor=1F2937"/>
 
-<img src="https://img.shields.io/badge/GPIO-0D1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPIO-0D1117?style=for-the-badge&labelColor=1F2937&color=0D1117"/>
 
 </p>
+
 <h3>⚡ Electronics & PCB Design</h3>
 <table>
 
