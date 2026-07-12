@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer;Robotics+Developer;ESP32+%7C+STM32+%7C+Raspberry+Pi;Embedded+Linux+%7C+FreeRTOS;Future+VLSI+Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001219,100:005F73&height=260&section=header&text=Embedded%20Systems%20Engineer&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 </p>
 </p>
 <h1 align="center">
