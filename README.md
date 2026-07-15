@@ -39,8 +39,7 @@ public:
 
     string Role = "Embedded Systems Engineer";
 
-    string Internship =
-    "Bharat Electronics Limited (BEL)";
+    string = "Create that never created"
 
 };
 
